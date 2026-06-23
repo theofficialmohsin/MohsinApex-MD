@@ -1,6 +1,0 @@
-{
-  "name": "Mohsin Raza WhatsApp MD Bot",
-  "description": "Premium Control Panel & Interactive Simulator for the Atlas-MD WhatsApp Bot owned by Mohsin Raza (+923254834280)",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
